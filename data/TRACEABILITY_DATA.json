@@ -1,0 +1,167 @@
+[
+    {
+      "Record_ID": "TRACE001",
+      "Exporter_ID": "EX001",
+      "Food_Product": "Golden Delicious Apples",
+      "CTE_Type": "Harvesting",
+      "KDE_Details": "Orchard Block A12, Harvester ID: H23",
+      "Timestamp": "2025-01-05 08:30:00",
+      "Compliance_Flag": "Compliant",
+      "Location": "Valencia Region, Spain",
+      "Lot_Number": "LOT2025A12"
+    },
+    {
+      "Record_ID": "TRACE002",
+      "Exporter_ID": "EX001",
+      "Food_Product": "Golden Delicious Apples",
+      "CTE_Type": "Cooling",
+      "KDE_Details": "Cooling Facility CF3, Temp: 4°C",
+      "Timestamp": "2025-01-06 14:20:00",
+      "Compliance_Flag": "Compliant",
+      "Location": "Valencia Packing House, Spain",
+      "Lot_Number": "LOT2025A12"
+    },
+    {
+      "Record_ID": "TRACE003",
+      "Exporter_ID": "EX002",
+      "Food_Product": "Organic Baby Carrots",
+      "CTE_Type": "Harvesting",
+      "KDE_Details": "Field B7, Harvester Team: BT4",
+      "Timestamp": "2025-01-08 07:45:00",
+      "Compliance_Flag": "Missing Data",
+      "Location": "Tuscany Region, Italy",
+      "Lot_Number": "LB7-2025-01"
+    },
+    {
+      "Record_ID": "TRACE004",
+      "Exporter_ID": "EX003",
+      "Food_Product": "Premium Ribeye Cuts",
+      "CTE_Type": "Slaughtering",
+      "KDE_Details": "Slaughterhouse S1, Inspector: I42",
+      "Timestamp": "2025-01-10 09:15:00",
+      "Compliance_Flag": "Compliant",
+      "Location": "Normandy, France",
+      "Lot_Number": "BEEF-S1-0110"
+    },
+    {
+      "Record_ID": "TRACE005",
+      "Exporter_ID": "EX003",
+      "Food_Product": "Premium Ribeye Cuts",
+      "CTE_Type": "Processing",
+      "KDE_Details": "Processing Facility P3, Line: L2",
+      "Timestamp": "2025-01-11 11:30:00",
+      "Compliance_Flag": "Compliant",
+      "Location": "Normandy, France",
+      "Lot_Number": "BEEF-P3-0111"
+    },
+    {
+      "Record_ID": "TRACE006",
+      "Exporter_ID": "EX004",
+      "Food_Product": "Mountain Gouda Cheese",
+      "CTE_Type": "Manufacturing",
+      "KDE_Details": "Production Batch: PB123, Pasteurization: 72°C for 15s",
+      "Timestamp": "2025-01-12 10:00:00",
+      "Compliance_Flag": "Compliant",
+      "Location": "Bavaria, Germany",
+      "Lot_Number": "GOUDA-PB123"
+    },
+    {
+      "Record_ID": "TRACE007",
+      "Exporter_ID": "EX005",
+      "Food_Product": "Fresh Norwegian Salmon",
+      "CTE_Type": "Harvesting",
+      "KDE_Details": "Aquaculture Site: AS25, Cage: C8",
+      "Timestamp": "2025-01-15 06:20:00",
+      "Compliance_Flag": "Incomplete",
+      "Location": "Lofoten, Norway",
+      "Lot_Number": "SALMON-AS25-15"
+    },
+    {
+      "Record_ID": "TRACE008",
+      "Exporter_ID": "EX005",
+      "Food_Product": "Fresh Norwegian Salmon",
+      "CTE_Type": "Initial Processing",
+      "KDE_Details": "Processing Vessel: PV12, Method: Gutting",
+      "Timestamp": "2025-01-15 09:40:00",
+      "Compliance_Flag": "Compliant",
+      "Location": "North Sea, Norway Coast",
+      "Lot_Number": "SALMON-PV12-15"
+    },
+    {
+      "Record_ID": "TRACE009",
+      "Exporter_ID": "EX006",
+      "Food_Product": "Mixed Citrus Basket",
+      "CTE_Type": "Harvesting",
+      "KDE_Details": "Orchard Blocks: C3, C4, C7",
+      "Timestamp": "2025-01-18 08:00:00",
+      "Compliance_Flag": "Compliant",
+      "Location": "Marrakech Region, Morocco",
+      "Lot_Number": "CITRUS-C347-0118"
+    },
+    {
+      "Record_ID": "TRACE010",
+      "Exporter_ID": "EX007",
+      "Food_Product": "Organic Cherry Tomatoes",
+      "CTE_Type": "Harvesting",
+      "KDE_Details": "Greenhouse G5, Team: T3",
+      "Timestamp": "2025-01-20 07:30:00",
+      "Compliance_Flag": "Compliant",
+      "Location": "Antalya Region, Turkey",
+      "Lot_Number": "TOM-G5-0120"
+    },
+    {
+      "Record_ID": "TRACE011",
+      "Exporter_ID": "EX007",
+      "Food_Product": "Organic Cherry Tomatoes",
+      "CTE_Type": "Packing",
+      "KDE_Details": "Packing Line: PL2, Inspector: I7",
+      "Timestamp": "2025-01-21 13:15:00",
+      "Compliance_Flag": "Compliant",
+      "Location": "Antalya Facility, Turkey",
+      "Lot_Number": "TOM-PL2-0121"
+    },
+    {
+      "Record_ID": "TRACE012",
+      "Exporter_ID": "EX008",
+      "Food_Product": "Premium Chicken Fillets",
+      "CTE_Type": "Processing",
+      "KDE_Details": "Facility F2, Line L3",
+      "Timestamp": "2025-01-25 10:00:00",
+      "Compliance_Flag": "Compliant",
+      "Location": "São Paulo, Brazil",
+      "Lot_Number": "CHICK-F2-0125"
+    },
+    {
+      "Record_ID": "TRACE013",
+      "Exporter_ID": "EX009",
+      "Food_Product": "Traditional Sourdough Bread",
+      "CTE_Type": "Baking",
+      "KDE_Details": "Oven O1, Batch B5",
+      "Timestamp": "2025-02-01 09:00:00",
+      "Compliance_Flag": "Compliant",
+      "Location": "Cairo, Egypt",
+      "Lot_Number": "BREAD-B5-0201"
+    },
+    {
+      "Record_ID": "TRACE014",
+      "Exporter_ID": "EX010",
+      "Food_Product": "Assorted Pralines",
+      "CTE_Type": "Manufacturing",
+      "KDE_Details": "Batch P10, Temp Control: 18°C",
+      "Timestamp": "2025-02-03 11:00:00",
+      "Compliance_Flag": "Compliant",
+      "Location": "Brussels, Belgium",
+      "Lot_Number": "PRAL-P10-0203"
+    },
+    {
+      "Record_ID": "TRACE015",
+      "Exporter_ID": "EX010",
+      "Food_Product": "Assorted Pralines",
+      "CTE_Type": "Packing",
+      "KDE_Details": "Line L4, Inspector I9",
+      "Timestamp": "2025-02-04 14:30:00",
+      "Compliance_Flag": "Compliant",
+      "Location": "Brussels, Belgium",
+      "Lot_Number": "PRAL-L4-0204"
+    }
+  ]

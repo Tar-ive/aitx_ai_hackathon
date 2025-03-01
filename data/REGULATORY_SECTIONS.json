@@ -1,0 +1,92 @@
+[
+    {
+        "Section_ID": "SEC001",
+        "Section_Number": "1.1300",
+        "Section_Title": "Scope",
+        "Content": "Establishes additional recordkeeping requirements for certain foods to help FDA identify and control foodborne illness outbreaks.",
+        "Applicability": "All entities handling FTL foods",
+        "Complexity_Level": 2,
+        "Effective_Date": "2022-11-21"
+    },
+    {
+        "Section_ID": "SEC002",
+        "Section_Number": "1.1305",
+        "Section_Title": "Exemptions",
+        "Content": "Outlines exemptions for small businesses, retail food establishments, restaurants, and certain farm-related activities.",
+        "Applicability": "Specific entities or conditions",
+        "Complexity_Level": 3,
+        "Effective_Date": "2022-11-21"
+    },
+    {
+        "Section_ID": "SEC003",
+        "Section_Number": "1.1310",
+        "Section_Title": "Definitions",
+        "Content": "Provides definitions for key terms such as critical tracking event, key data element, traceability lot, etc.",
+        "Applicability": "All covered entities",
+        "Complexity_Level": 3,
+        "Effective_Date": "2022-11-21"
+    },
+    {
+        "Section_ID": "SEC004",
+        "Section_Number": "1.1315",
+        "Section_Title": "What traceability information must I maintain?",
+        "Content": "Requires maintaining traceability information for each traceability lot of FTL food, including key data elements for each critical tracking event.",
+        "Applicability": "All covered entities",
+        "Complexity_Level": 4,
+        "Effective_Date": "2022-11-21"
+    },
+    {
+        "Section_ID": "SEC005",
+        "Section_Number": "1.1320",
+        "Section_Title": "How must I maintain traceability records?",
+        "Content": "Specifies that records must be maintained in a way that allows for the provision of an electronic sortable spreadsheet to FDA within 24 hours upon request.",
+        "Applicability": "All covered entities",
+        "Complexity_Level": 3,
+        "Effective_Date": "2022-11-21"
+    },
+    {
+        "Section_ID": "SEC006",
+        "Section_Number": "1.1325",
+        "Section_Title": "Can FDA request information in addition to key data elements?",
+        "Content": "FDA can request additional information beyond key data elements to identify the source of a food or control an outbreak.",
+        "Applicability": "All covered entities",
+        "Complexity_Level": 2,
+        "Effective_Date": "2022-11-21"
+    },
+    {
+        "Section_ID": "SEC007",
+        "Section_Number": "1.1330",
+        "Section_Title": "How must I send information to FDA?",
+        "Content": "Details how to provide the traceability information to FDA, including format and timeline.",
+        "Applicability": "All covered entities",
+        "Complexity_Level": 3,
+        "Effective_Date": "2022-11-21"
+    },
+    {
+        "Section_ID": "SEC008",
+        "Section_Number": "1.1335",
+        "Section_Title": "What are the recordkeeping requirements for foods on the Food Traceability List that are subjected to a kill step?",
+        "Content": "Requires maintaining records to demonstrate that a kill step was performed, which may exempt the food from further traceability requirements.",
+        "Applicability": "Processors of certain FTL foods",
+        "Complexity_Level": 4,
+        "Effective_Date": "2022-11-21"
+    },
+    {
+        "Section_ID": "SEC009",
+        "Section_Number": "1.1340",
+        "Section_Title": "Under what circumstances will FDA modify the Food Traceability List?",
+        "Content": "FDA may modify the FTL based on public health considerations or other factors.",
+        "Applicability": "FDA and all covered entities",
+        "Complexity_Level": 2,
+        "Effective_Date": "2022-11-21"
+    },
+    {
+        "Section_ID": "SEC010",
+        "Section_Number": "1.1345",
+        "Section_Title": "What are the compliance dates for this subpart?",
+        "Content": "Compliance dates vary, with general compliance required by January 20, 2026.",
+        "Applicability": "All covered entities",
+        "Complexity_Level": 2,
+        "Effective_Date": "2022-11-21"
+    }
+]

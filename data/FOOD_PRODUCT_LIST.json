@@ -1,0 +1,72 @@
+[
+    {
+        "Product_Category_ID": "PROD001",
+        "Product_Name": "Fresh Apples",
+        "Category": "Fresh Fruits",
+        "On_FTL_List": true,
+        "HS_Code_Pattern": "0808.10"
+    },
+    {
+        "Product_Category_ID": "PROD002",
+        "Product_Name": "Organic Carrots",
+        "Category": "Vegetables",
+        "On_FTL_List": true,
+        "HS_Code_Pattern": "0706.10"
+    },
+    {
+        "Product_Category_ID": "PROD003",
+        "Product_Name": "Premium Beef Cuts",
+        "Category": "Meat",
+        "On_FTL_List": false,
+        "HS_Code_Pattern": "0201.30"
+    },
+    {
+        "Product_Category_ID": "PROD004",
+        "Product_Name": "Artisanal Cheese",
+        "Category": "Dairy",
+        "On_FTL_List": true,
+        "HS_Code_Pattern": "0406.90"
+    },
+    {
+        "Product_Category_ID": "PROD005",
+        "Product_Name": "Wild-caught Salmon",
+        "Category": "Seafood",
+        "On_FTL_List": true,
+        "HS_Code_Pattern": "0302.14"
+    },
+    {
+        "Product_Category_ID": "PROD006",
+        "Product_Name": "Citrus Mix",
+        "Category": "Fresh Fruits",
+        "On_FTL_List": true,
+        "HS_Code_Pattern": "0805.90"
+    },
+    {
+        "Product_Category_ID": "PROD007",
+        "Product_Name": "Organic Tomatoes",
+        "Category": "Vegetables",
+        "On_FTL_List": true,
+        "HS_Code_Pattern": "0702.00"
+    },
+    {
+        "Product_Category_ID": "PROD008",
+        "Product_Name": "Chicken Breasts",
+        "Category": "Poultry",
+        "On_FTL_List": false,
+        "HS_Code_Pattern": "0207.13"
+    },
+    {
+        "Product_Category_ID": "PROD009",
+        "Product_Name": "Artisan Bread",
+        "Category": "Baked Goods",
+        "On_FTL_List": false,
+        "HS_Code_Pattern": "1905.90"
+    },
+    {
+        "Product_Category_ID": "PROD010",
+        "Product_Name": "Gourmet Chocolates",
+        "Category": "Confectionery",
+        "On_FTL_List": false,
+        "HS_Code_Pattern": "1806.90"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "Exporter_ID": "EX001",
+        "Exporter_Name": "Iberian Orchard Exports",
+        "Country_of_Origin": "Spain",
+        "Industry_Focus": "Fresh Fruits",
+        "Operation_Size": "Mid-sized (150 employees)",
+        "Export_Frequency": "4-5 shipments per month",
+        "Shipping_Modalities": "Refrigerated trucking & ocean freight",
+        "Additional_Insights": "Committed to FDA compliance, monitors temperature and storage conditions"
+    },
+    {
+        "Exporter_ID": "EX002",
+        "Exporter_Name": "BellaCarota Organics",
+        "Country_of_Origin": "Italy",
+        "Industry_Focus": "Organic Vegetables",
+        "Operation_Size": "Small-medium (50-70 employees)",
+        "Export_Frequency": "2-3 shipments per month",
+        "Shipping_Modalities": "Road and air freight",
+        "Additional_Insights": "Transitioning from paper to digital, occasional gaps in traceability data"
+    },
+    {
+        "Exporter_ID": "EX003",
+        "Exporter_Name": "Le Bœuf Exquis",
+        "Country_of_Origin": "France",
+        "Industry_Focus": "Premium Meat",
+        "Operation_Size": "Mid-sized (200 employees)",
+        "Export_Frequency": "5-6 shipments per month",
+        "Shipping_Modalities": "Refrigerated container shipping via ocean",
+        "Additional_Insights": "Invested heavily in traceability systems, stringent quality control"
+    },
+    {
+        "Exporter_ID": "EX004",
+        "Exporter_Name": "AlpenKäse Delights",
+        "Country_of_Origin": "Germany",
+        "Industry_Focus": "Artisanal Dairy",
+        "Operation_Size": "Mid-sized (100 employees)",
+        "Export_Frequency": "3-4 shipments per month",
+        "Shipping_Modalities": "Refrigerated air and ocean freight",
+        "Additional_Insights": "Strict quality protocols, robust documentation"
+    },
+    {
+        "Exporter_ID": "EX005",
+        "Exporter_Name": "Nordic Salmon Select",
+        "Country_of_Origin": "Norway",
+        "Industry_Focus": "Seafood",
+        "Operation_Size": "Large-scale (250 employees)",
+        "Export_Frequency": "8 shipments per month",
+        "Shipping_Modalities": "Air freight & refrigerated sea containers",
+        "Additional_Insights": "Recent digital upgrades, focused on compliance refinement"
+    },
+    {
+        "Exporter_ID": "EX006",
+        "Exporter_Name": "Moroccan Sun Citrus",
+        "Country_of_Origin": "Morocco",
+        "Industry_Focus": "Citrus Fruits",
+        "Operation_Size": "Small-sized (40-60 employees)",
+        "Export_Frequency": "2-3 shipments per month",
+        "Shipping_Modalities": "Refrigerated trucking & ocean freight",
+        "Additional_Insights": "Scaling while maintaining compliance, invests in process monitoring"
+    },
+    {
+        "Exporter_ID": "EX007",
+        "Exporter_Name": "Anatolian Harvest Organics",
+        "Country_of_Origin": "Turkey",
+        "Industry_Focus": "Organic Vegetables",
+        "Operation_Size": "Mid-sized (120 employees)",
+        "Export_Frequency": "4-5 shipments per month",
+        "Shipping_Modalities": "Road transport & air freight",
+        "Additional_Insights": "Eco-friendly practices, coordinates with local farmers"
+    },
+    {
+        "Exporter_ID": "EX008",
+        "Exporter_Name": "Frango Fino Brazil",
+        "Country_of_Origin": "Brazil",
+        "Industry_Focus": "Poultry",
+        "Operation_Size": "Large-scale (300+ employees)",
+        "Export_Frequency": "6-7 shipments per month",
+        "Shipping_Modalities": "Refrigerated container shipping & air freight",
+        "Additional_Insights": "Refining traceability systems, technology upgrades"
+    },
+    {
+        "Exporter_ID": "EX009",
+        "Exporter_Name": "Nile Artisan Breads",
+        "Country_of_Origin": "Egypt",
+        "Industry_Focus": "Artisan Bakery",
+        "Operation_Size": "Boutique (20-30 employees)",
+        "Export_Frequency": "1-2 shipments per month",
+        "Shipping_Modalities": "Ground transport & air freight",
+        "Additional_Insights": "Hands-on traceability approach, focus on heritage"
+    },
+    {
+        "Exporter_ID": "EX010",
+        "Exporter_Name": "Belgian Velvet Chocolates",
+        "Country_of_Origin": "Belgium",
+        "Industry_Focus": "Confectionery",
+        "Operation_Size": "Boutique premium (50-70 employees)",
+        "Export_Frequency": "2-3 shipments per month",
+        "Shipping_Modalities": "Air freight with temperature control",
+        "Additional_Insights": "Heavy investment in traceability, premium brand protection"
+    }
+]

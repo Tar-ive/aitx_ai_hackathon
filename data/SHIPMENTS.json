@@ -1,0 +1,122 @@
+[
+    {
+        "Shipment_ID": "SHIP001",
+        "Exporter_ID": "EX001",
+        "Destination_Country": "United States",
+        "Product_D_description": "Golden Delicious Apples",
+        "Product_Type": "Fresh Fruit",
+        "HS_Code": "0808.10",
+        "Quantity": "2000 kg",
+        "Export_Date": "2025-01-15",
+        "Compliance_Status": "Compliant",
+        "Linked_Traceability_IDs": "TRACE001,TRACE002"
+    },
+    {
+        "Shipment_ID": "SHIP002",
+        "Exporter_ID": "EX002",
+        "Destination_Country": "United States",
+        "Product_D_description": "Organic Baby Carrots",
+        "Product_Type": "Vegetables",
+        "HS_Code": "0706.10",
+        "Quantity": "1500 kg",
+        "Export_Date": "2025-01-18",
+        "Compliance_Status": "Partial Compliance",
+        "Linked_Traceability_IDs": "TRACE003"
+    },
+    {
+        "Shipment_ID": "SHIP003",
+        "Exporter_ID": "EX003",
+        "Destination_Country": "United States",
+        "Product_D_description": "Premium Ribeye Cuts",
+        "Product_Type": "Meat",
+        "HS_Code": "0201.30",
+        "Quantity": "800 kg",
+        "Export_Date": "2025-01-20",
+        "Compliance_Status": "Compliant",
+        "Linked_Traceability_IDs": "TRACE004,TRACE005"
+    },
+    {
+        "Shipment_ID": "SHIP004",
+        "Exporter_ID": "EX004",
+        "Destination_Country": "United States",
+        "Product_D_description": "Mountain Gouda Cheese",
+        "Product_Type": "Dairy",
+        "HS_Code": "0406.90",
+        "Quantity": "600 kg",
+        "Export_Date": "2025-01-22",
+        "Compliance_Status": "Compliant",
+        "Linked_Traceability_IDs": "TRACE006"
+    },
+    {
+        "Shipment_ID": "SHIP005",
+        "Exporter_ID": "EX005",
+        "Destination_Country": "United States",
+        "Product_D_description": "Fresh Norwegian Salmon",
+        "Product_Type": "Seafood",
+        "HS_Code": "0302.14",
+        "Quantity": "1200 kg",
+        "Export_Date": "2025-01-25",
+        "Compliance_Status": "Pending Review",
+        "Linked_Traceability_IDs": "TRACE007,TRACE008"
+    },
+    {
+        "Shipment_ID": "SHIP006",
+        "Exporter_ID": "EX006",
+        "Destination_Country": "United States",
+        "Product_D_description": "Mixed Citrus Basket",
+        "Product_Type": "Fresh Fruit",
+        "HS_Code": "0805.90",
+        "Quantity": "1800 kg",
+        "Export_Date": "2025-01-27",
+        "Compliance_Status": "Compliant",
+        "Linked_Traceability_IDs": "TRACE009"
+    },
+    {
+        "Shipment_ID": "SHIP007",
+        "Exporter_ID": "EX007",
+        "Destination_Country": "United States",
+        "Product_D_description": "Organic Cherry Tomatoes",
+        "Product_Type": "Vegetables",
+        "HS_Code": "0702.00",
+        "Quantity": "1000 kg",
+        "Export_Date": "2025-01-30",
+        "Compliance_Status": "Compliant",
+        "Linked_Traceability_IDs": "TRACE010,TRACE011"
+    },
+    {
+        "Shipment_ID": "SHIP008",
+        "Exporter_ID": "EX008",
+        "Destination_Country": "United States",
+        "Product_D_description": "Premium Chicken Fillets",
+        "Product_Type": "Poultry",
+        "HS_Code": "0207.13",
+        "Quantity": "1500 kg",
+        "Export_Date": "2025-02-02",
+        "Compliance_Status": "Non-Compliant",
+        "Linked_Traceability_IDs": "TRACE012"
+    },
+    {
+        "Shipment_ID": "SHIP009",
+        "Exporter_ID": "EX009",
+        "Destination_Country": "United States",
+        "Product_D_description": "Traditional Sourdough Bread",
+        "Product_Type": "Baked Goods",
+        "HS_Code": "1905.90",
+        "Quantity": "300 kg",
+        "Export_Date": "2025-02-05",
+        "Compliance_Status": "Exempted",
+        "Linked_Traceability_IDs": "TRACE013"
+    },
+    {
+        "Shipment_ID": "SHIP010",
+        "Exporter_ID": "EX010",
+        "Destination_Country": "United States",
+        "Product_D_description": "Assorted Pralines",
+        "Product_Type": "Confectionery",
+        "HS_Code": "1806.90",
+        "Quantity": "400 kg",
+        "Export_Date": "2025-02-08",
+        "Compliance_Status": "Exempted",
+        "Linked_Traceability_IDs": "TRACE014,TRACE015"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "Document_ID": "DOC001",
+        "Exporter_ID": "EX001",
+        "Document_Type": "Health Certificate",
+        "Date_Issued": "2025-01-12",
+        "Linked_Shipment_ID": "SHIP001",
+        "Status": "Valid"
+    },
+    {
+        "Document_ID": "DOC002",
+        "Exporter_ID": "EX001",
+        "Document_Type": "Commercial Invoice",
+        "Date_Issued": "2025-01-13",
+        "Linked_Shipment_ID": "SHIP001",
+        "Status": "Valid"
+    },
+    {
+        "Document_ID": "DOC003",
+        "Exporter_ID": "EX002",
+        "Document_Type": "Organic Certification",
+        "Date_Issued": "2025-01-16",
+        "Linked_Shipment_ID": "SHIP002",
+        "Status": "Valid"
+    },
+    {
+        "Document_ID": "DOC004",
+        "Exporter_ID": "EX002",
+        "Document_Type": "Traceability Records",
+        "Date_Issued": "2025-01-17",
+        "Linked_Shipment_ID": "SHIP002",
+        "Status": "Incomplete"
+    },
+    {
+        "Document_ID": "DOC005",
+        "Exporter_ID": "EX003",
+        "Document_Type": "Health Certificate",
+        "Date_Issued": "2025-01-18",
+        "Linked_Shipment_ID": "SHIP003",
+        "Status": "Valid"
+    },
+    {
+        "Document_ID": "DOC006",
+        "Exporter_ID": "EX004",
+        "Document_Type": "Export Declaration",
+        "Date_Issued": "2025-01-20",
+        "Linked_Shipment_ID": "SHIP004",
+        "Status": "Valid"
+    },
+    {
+        "Document_ID": "DOC007",
+        "Exporter_ID": "EX005",
+        "Document_Type": "Catch Certificate",
+        "Date_Issued": "2025-01-23",
+        "Linked_Shipment_ID": "SHIP005",
+        "Status": "Pending Verification"
+    },
+    {
+        "Document_ID": "DOC008",
+        "Exporter_ID": "EX006",
+        "Document_Type": "Phytosanitary Certificate",
+        "Date_Issued": "2025-01-25",
+        "Linked_Shipment_ID": "SHIP006",
+        "Status": "Valid"
+    },
+    {
+        "Document_ID": "DOC009",
+        "Exporter_ID": "EX007",
+        "Document_Type": "Organic Certification",
+        "Date_Issued": "2025-01-28",
+        "Linked_Shipment_ID": "SHIP007",
+        "Status": "Valid"
+    },
+    {
+        "Document_ID": "DOC010",
+        "Exporter_ID": "EX008",
+        "Document_Type": "Health Certificate",
+        "Date_Issued": "2025-01-31",
+        "Linked_Shipment_ID": "SHIP008",
+        "Status": "Rejected"
+    }
+]

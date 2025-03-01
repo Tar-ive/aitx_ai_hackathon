@@ -1,0 +1,107 @@
+[
+    {
+        "Mapping_ID": "MAP001",
+        "Section_ID": "SEC006",
+        "Product_Category_ID": "PROD001",
+        "Requirement_Type": "Harvest Records",
+        "Is_Required": true
+    },
+    {
+        "Mapping_ID": "MAP002",
+        "Section_ID": "SEC006",
+        "Product_Category_ID": "PROD002",
+        "Requirement_Type": "Growing Area Coordinates",
+        "Is_Required": true
+    },
+    {
+        "Mapping_ID": "MAP003",
+        "Section_ID": "SEC007",
+        "Product_Category_ID": "PROD003",
+        "Requirement_Type": "Slaughter Lot Identification",
+        "Is_Required": false
+    },
+    {
+        "Mapping_ID": "MAP004",
+        "Section_ID": "SEC008",
+        "Product_Category_ID": "PROD004",
+        "Requirement_Type": "Pasteurization Records",
+        "Is_Required": true
+    },
+    {
+        "Mapping_ID": "MAP005",
+        "Section_ID": "SEC006",
+        "Product_Category_ID": "PROD005",
+        "Requirement_Type": "Catch Location",
+        "Is_Required": true
+    },
+    {
+        "Mapping_ID": "MAP006",
+        "Section_ID": "SEC006",
+        "Product_Category_ID": "PROD006",
+        "Requirement_Type": "Harvest Date",
+        "Is_Required": true
+    },
+    {
+        "Mapping_ID": "MAP007",
+        "Section_ID": "SEC006",
+        "Product_Category_ID": "PROD007",
+        "Requirement_Type": "Field Identification",
+        "Is_Required": true
+    },
+    {
+        "Mapping_ID": "MAP008",
+        "Section_ID": "SEC007",
+        "Product_Category_ID": "PROD008",
+        "Requirement_Type": "Processing Facility ID",
+        "Is_Required": false
+    },
+    {
+        "Mapping_ID": "MAP009",
+        "Section_ID": "SEC009",
+        "Product_Category_ID": "PROD009",
+        "Requirement_Type": "Batch Number",
+        "Is_Required": false
+    },
+    {
+        "Mapping_ID": "MAP010",
+        "Section_ID": "SEC005",
+        "Product_Category_ID": "PROD010",
+        "Requirement_Type": "Lot Code",
+        "Is_Required": false
+    },
+    {
+        "Mapping_ID": "MAP011",
+        "Section_ID": "SEC009",
+        "Product_Category_ID": "PROD001",
+        "Requirement_Type": "Electronic Records",
+        "Is_Required": true
+    },
+    {
+        "Mapping_ID": "MAP012",
+        "Section_ID": "SEC009",
+        "Product_Category_ID": "PROD002",
+        "Requirement_Type": "Electronic Records",
+        "Is_Required": true
+    },
+    {
+        "Mapping_ID": "MAP013",
+        "Section_ID": "SEC009",
+        "Product_Category_ID": "PROD003",
+        "Requirement_Type": "Electronic Records",
+        "Is_Required": true
+    },
+    {
+        "Mapping_ID": "MAP014",
+        "Section_ID": "SEC009",
+        "Product_Category_ID": "PROD004",
+        "Requirement_Type": "Electronic Records",
+        "Is_Required": true
+    },
+    {
+        "Mapping_ID": "MAP015",
+        "Section_ID": "SEC009",
+        "Product_Category_ID": "PROD005",
+        "Requirement_Type": "Electronic Records",
+        "Is_Required": true
+    }
+]
