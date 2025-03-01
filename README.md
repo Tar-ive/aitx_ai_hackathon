@@ -7,6 +7,9 @@
 ## Overview
 This is an AI-powered chatbot designed to assist exporters in complying with FDA regulations. It converts natural language queries into SQL commands, retrieves relevant compliance information, and provides real-time assistance. Built using LlamaStack and Together AI, it integrates tools for database interaction, rule interpretation, and user-friendly UI components using Replit.
 
+### Checkout the live app: 
+https://food-trace-guide-tarive22.replit.app
+
 ## Features
 - **AI-Powered Compliance Chatbot**: Answers user queries about FDA regulations and requirements with simplified responses.
 - **Text-to-SQL Conversion**: Uses LlamaStack and Together AI to generate SQL queries from user input.
